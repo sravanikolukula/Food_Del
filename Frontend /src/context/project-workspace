@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../hello-world"
+		},
+		{
+			"path": "../../../../../hello-world2"
+		},
+		{
+			"path": "../../../../Food_del"
+		},
+		{
+			"path": "../../../../../hooks"
+		},
+		{
+			"path": "../../../../react/lifecyycle"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../context"
+		}
+	],
+	"settings": {}
+}
